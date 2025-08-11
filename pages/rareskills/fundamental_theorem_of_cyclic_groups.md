@@ -143,9 +143,6 @@ $$
 \langle 3^{\frac{n}{k}} = 3^{\frac{6}{3}} = 3^{2} \equiv 2 \rangle =\{1, 2, 4\}
 $$
 
-### Order of element
-If $g$ is an element of a group $G$, then the order of the element $g$ is equal to the order of the subgroup $\langle g \rangle$. So, $\mathrm{ord} (g) = |\langle g \rangle|$. Colloquially, we can think of $\mathrm{ord}(g)$ as being the number of unique elements we get if we repeatedly multiply $g$ by itself.
-
 ### Corollary 1
 A useful corollary is that we can quickly check if a group of a certain size exists or not by listing all the divisors of n. For example, let us consider the field $F_{41}$, which has a multiplicative group $F_{41}^*$ with order 40. Then, we can quickly check that $F_{41}$ has a subgroup of size 8 because 8 divides 40.
 
